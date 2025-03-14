@@ -2,7 +2,8 @@ Front End Developer Technical Exercise
 
 We would like you to create a react application that lists out drivers and menu items from the relevant data files and displays them on the page. The application should make use of react components.
 There is a wireframe image included in the ZIP file, suggesting a rough guide to how we would like the page to be laid out. Please feel free to add your own styling to this wireframe the resource is just a guide.
-The application should have a header bar, displaying the Logistics UK logo. 
+
+The application should have a header bar, displaying the Logistics UK logo. # DONE
 Down the left-hand side of the page, the menu items should be displayed, the data for the menu items sits in the data/menu.json file.
 In the main content container, there should be a listing containing; the drivers name, the registration of the vehicle he used and a sum of all the minutes they have spent on activities for the week (1/2/2021 – 7/2/2021). There should also be a box to represent each day of the week. If the driver has a trace for that day with activities, the box should be filled in green, otherwise it can be left clear.
 All the data for the listing can be obtained from the data/drivers.json file.
