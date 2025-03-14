@@ -21,8 +21,6 @@ const LeftMenu = () => {
       <style jsx>{`
         .left-menu {
           position: fixed;
-          left: 0;
-          top: 0;
           width: 200px;
           height: 100vh;
           background: #ffffff;
@@ -31,8 +29,6 @@ const LeftMenu = () => {
         }
         .left-menu ul {
           list-style: none;
-          padding: 0;
-          margin: 0;
         }
         .left-menu li {
           margin-bottom: 10px;
