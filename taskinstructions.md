@@ -10,10 +10,11 @@ All the data for the listing can be obtained from the data/drivers.json file. # 
 
 Bonus Tasks:
 
-Add a search box to the page, and upon typing in the input field, the driver list should be filtered down based on matching name, or registration.
-Split the total activity time in the listing into totals groups by individual activity types (drive, rest etc...)
+Add a search box to the page, and upon typing in the input field, the driver list should be filtered down based on matching name, or registration. # DONE
+Split the total activity time in the listing into totals groups by individual activity types (drive, rest etc...) # DONE
 
 Add routing to the application and create holding pages for the menu items.
+
 Upon completion:
 
 Please upload your deliverables (prototypes/source files/solution files, etc.) either to a public repository or zip the files and upload to an online storage account. Please email a link to the files to Peter Connor (pconnor@logistics.org.uk).
