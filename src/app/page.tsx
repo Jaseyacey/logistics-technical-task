@@ -1,7 +1,5 @@
 "use client";
 import LeftMenu from "./components/LeftMenu";
-import Image from "next/image";
-import logo from "@@/app/components/assets/logo.png";
 
 export default function Home() {
   return (
